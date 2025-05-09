@@ -12,7 +12,7 @@ export default test({
 			target.innerHTML,
 			`
 			<div>
-				<div class="tooltip">Perform an Action</div>
+				<div class="tooltip">Perform an Action!</div>
 			</div>
 		`
 		);
